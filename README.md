@@ -34,14 +34,10 @@ wavefunction.m
 Generates fig1.png showing the probability density |Ψ(r)|².
 
 2. Nonlinear Self-Gravity Feedback
-octave
-Copy code
 self_gravity.m
 Generates fig2.png, visualizing the self-gravity term of the BHE.
 
 3. Spin Dependence
-octave
-Copy code
 spin_effect.m
 Generates fig3.png showing spin coupling effects on the quantum black hole core.
 
