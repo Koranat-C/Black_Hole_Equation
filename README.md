@@ -88,19 +88,14 @@ Copy code
 ## Usage
 
 ### 1. Quantum Mass Distribution
-```bash
 wavefunction.m
 Generates fig1.png showing the probability density |Ψ(r)|².
 
 2. Nonlinear Self-Gravity Feedback
-bash
-Copy code
 self_gravity.m
 Generates fig2.png, visualizing the self-gravity term of the BHE.
 
 3. Spin Dependence
-bash
-Copy code
 spin_effect.m
 Generates fig3.png showing spin coupling effects on the quantum black hole core.
 
@@ -113,6 +108,3 @@ Koranat C., The Black Hole Equation: Toward a Unified Quantum Model of Gravity a
 
 License
 This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the work as long as proper credit is given.
-
-yaml
-Copy code
