@@ -8,6 +8,17 @@ DOI: [10.5281/zenodo.17366620](https://doi.org/10.5281/zenodo.17366620)
 The project demonstrates the quantum structure, self-gravity feedback, and spin effects in black holes using the **Black Hole Equation (BHE)**.
 
 ---
+Black_Hole_Equation/
+│
+├── fig1.png # Quantum mass distribution |Ψ(r)|^2
+├── fig2.png # Self-gravity feedback potential
+├── fig3.png # Spin-dependent quantum distribution
+├── wavefunction.m # Octave script for Fig. 1
+├── self_gravity.m # Octave script for Fig. 2
+├── spin_effect.m # Octave script for Fig. 3
+├── README.md # This file
+└── LICENSE # License file
+---
 
 ## Requirements
 
