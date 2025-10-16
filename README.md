@@ -52,5 +52,6 @@ If you use these scripts or figures, please cite the paper:
 
 Koranat C., The Black Hole Equation: Toward a Unified Quantum Model of Gravity and Curvature, Zenodo, DOI: 10.5281/zenodo.17366620
 
-⚖️ License
+License
+This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the work as long as proper credit is given.
 This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the work as long as proper credit is given.
